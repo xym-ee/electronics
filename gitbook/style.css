@@ -19,7 +19,7 @@ audio:not([controls])
 
 html
 {
-	font-family: "Book Antiqua","宋体";
+	font-family: sans-serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%
 }
@@ -75,7 +75,7 @@ mark
 
 code,kbd,pre,samp
 {
-	font-family: "Book Antiqua","宋体";;
+	font-family: monospace,serif;
 	font-size: 1em
 }
 
@@ -258,8 +258,7 @@ table
 }/*!
  *  Font Awesome 4.6.3 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
- */
-@font-face
+ */@font-face
 {
 	font-family:FontAwesome;src:url(fonts/fontawesome/fontawesome-webfont.eot?v=4.6.3);src:url(fonts/fontawesome/fontawesome-webfont.eot?#iefix&v=4.6.3) format('embedded-opentype'),url(fonts/fontawesome/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(fonts/fontawesome/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(fonts/fontawesome/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(fonts/fontawesome/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');font-weight:400;font-style:normal
 }
@@ -267,7 +266,7 @@ table
 .fa
 {
 	display: inline-block;
-	font: "Book Antiqua","宋体";
+	font: normal normal normal 14px/1 FontAwesome;
 	font-size: inherit;
 	text-rendering: auto;
 	-webkit-font-smoothing: antialiased;
@@ -3766,7 +3765,7 @@ table
 
 .book-header
 {
-	font-family: "Book Antiqua","宋体";
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	overflow: visible;
 	height: 50px;
 	padding: 0 8px;
@@ -3997,7 +3996,7 @@ table
 
 .book-summary
 {
-	font-family: "Book Antiqua","宋体";
+	font-family: "Book Antiqua","黑体";
 	position: absolute;
 	top: 0;
 	left: -300px;
@@ -4417,7 +4416,7 @@ table
 
 .markdown-section code,.markdown-section pre
 {
-	font-family: "Book Antiqua","宋体";
+	font-family: Consolas,"Liberation Mono",Menlo,Courier,monospace;
 	direction: ltr;
 	margin: 0;
 	padding: 0;
@@ -4802,7 +4801,7 @@ table
 
 #book-search-results .search-results .has-results .search-results-item code,#book-search-results .search-results .has-results .search-results-item pre
 {
-	font-family: "Book Antiqua","宋体";
+	font-family: Consolas,"Liberation Mono",Menlo,Courier,monospace;
 	direction: ltr;
 	margin: 0;
 	padding: 0;
@@ -4997,7 +4996,7 @@ body
 {
 	text-rendering: optimizeLegibility;
 	font-smoothing: antialiased;
-	font-family: "Book Antiqua","宋体";
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 14px;
 	letter-spacing: .2px;
 	text-size-adjust: 100%;
