@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://xymeng.xyz'
-baseurl:          '/jekyll-gitbook'
+baseurl:          '/Notes-Foundation-of-Electronic-Technics'
 rss:              RSS
 
 toc:
