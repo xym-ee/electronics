@@ -1,16 +1,16 @@
 # Configurations
 title:            电子技术基础
-longtitle:        Jekyll Gitbook
+longtitle:        电子技术基础
 author:           0xyMeng
 email:            me@xymeng.xyz
 description: >
-  Build Jekyll site with the GitBook style.
+  描述一下
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:             'https://127.0.0.1:4000'
-#url:              'https://xymeng.xyz'
+#url:             'https://127.0.0.1:4000'
+url:              'https://xymeng.xyz'
 baseurl:          '/Notes-Foundation-of-Electronic-Technics'
 rss:              RSS
 
@@ -20,7 +20,7 @@ toc:
   h_max: 2
 
 # markdown render engine.
-markdown:         kramdown
+markdown:                 kramdown
 kramdown:
   auto_ids:               true
   input:                  GFM
