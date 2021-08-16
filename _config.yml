@@ -1,5 +1,5 @@
 # Configurations
-title:            Jekyll Gitbook
+title:            电子技术基础
 longtitle:        Jekyll Gitbook
 author:           0xyMeng
 email:            me@xymeng.xyz
@@ -9,14 +9,15 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://xymeng.xyz'
+url:             'https://127.0.0.1:4000'
+#url:              'https://xymeng.xyz'
 baseurl:          '/Notes-Foundation-of-Electronic-Technics'
 rss:              RSS
 
 toc:
   enabled: true
   h_min: 1
-  h_max: 3
+  h_max: 2
 
 # markdown render engine.
 markdown:         kramdown
@@ -25,7 +26,7 @@ kramdown:
   input:                  GFM
   math_engine:            mathjax
   smart_quotes:           lsquo,rsquo,ldquo,rdquo
-  toc_levels:             1..6
+  toc_levels:             1..4
   syntax_highlighter:     rouge
   syntax_highlighter_opts:
     guess_lang:           true
