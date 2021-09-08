@@ -1,0 +1,11 @@
+<script>
+    window.ui = {
+        title: "{{ site.title }}",
+        baseurl: "{{ site.baseurl }}",
+        i18n: {
+            search_results: "{{ __.search_results | default: '搜索结果' }}",
+            search_results_found: "{{ __.search_results_found | default: '搜索完成, 共发现 # 处匹配结果' }}",
+            search_results_not_found: "{{ __.search_results_not_found | default: '未找到匹配关键词，换个词再试试' }}"
+        }
+    };
+</script>
