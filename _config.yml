@@ -1,7 +1,9 @@
-title: Config标题
-description: 描述
+title:        电子学基础
+description:  笔记
 
 theme: null
+
+siteurl: "https://xymeng.xyz/Electronics/"
 
 # debug:
 #   compress: true

@@ -1,7 +1,7 @@
 <div class="toasts note mb-4">
     <div class="title px-2 py-1">
         <i class="fa fa-info-circle"></i>
-        {{ __.note | default: "Note" }}
+        {{ __.note | default: "补充" }}
     </div>
     <div class="content px-2 py-3">
         {{ codes | markdownify | strip_newlines -}}
