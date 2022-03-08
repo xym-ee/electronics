@@ -3,7 +3,8 @@ description:  xyMeng
 
 theme: null
 
-siteurl: "https://xu.yumeng.website/electronics"
+url: "https://xu.yumeng.website"
+baseurl: "/electronics"
 
 # debug:
 #   compress: true
@@ -15,8 +16,8 @@ gittalk:
   clientID:     5c4a4805389461265123
   clientSecret: b13a143f197a4e12a8295c256b366d884ec661d8
   repo:         electronics
-  owner:        0xyMeng
-  admin:        0xyMeng
+  owner:        Meng2025
+  admin:        Meng2025
   id:           comments
 
 readme_index:

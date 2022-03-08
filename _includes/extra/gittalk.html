@@ -1,17 +1,19 @@
-<link rel="stylesheet" href="{{ site.siteurl }}/assets/css/gitalk.css">
-<script src="{{ site.siteurl }}/assets/js/gitalk.min.js"></script> 
-
-<div id="gitalk-container"></div>
-<script>
-    var gitalk = new Gitalk({
-        clientID: '{{ site.gittalk.clientID }}',
-        clientSecret: '{{ site.gittalk.clientSecret }}',
-        repo: '{{ site.gittalk.repo }}',
-        owner: '{{ site.gittalk.owner }}',
-        admin: ['{{ site.gittalk.admin }}'],
-        id: '{{ site.gittalk.id }}',
-        language: 'zh-CN',
-    });
-    gitalk.render('gitalk-container');
-</script> 
+<div>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/gitalk.css">
+    <script src="{{ site.baseurl }}/assets/js/gitalk.min.js"></script> 
+    
+    <div id="gitalk-container"></div>
+    <script>
+        var gitalk = new Gitalk({
+            clientID: '{{ site.gittalk.clientID }}',
+            clientSecret: '{{ site.gittalk.clientSecret }}',
+            repo: '{{ site.gittalk.repo }}',
+            owner: '{{ site.gittalk.owner }}',
+            admin: ['{{ site.gittalk.admin }}'],
+            id: '{{ site.gittalk.id }}',
+            language: 'zh-CN',
+        });
+        gitalk.render('gitalk-container');
+    </script> 
+</div>
 

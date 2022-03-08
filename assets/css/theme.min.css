@@ -26,8 +26,26 @@ body
 	margin: 0
 }
 
-article,aside,details,figcaption,figure,footer,header,main,menu,nav,section
+article,aside,details,footer,header,main,menu,nav,section
 {
+	display: block
+}
+
+figure {
+	text-align: center;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+}
+
+figcaption
+{
+	font-family: "Times New Roman",黑体;
+	font-size: smaller;
 	display: block
 }
 
@@ -138,11 +156,6 @@ code,kbd,pre,samp
 {
 	font-family: monospace,monospace;
 	font-size: 1em
-}
-
-figure
-{
-	margin: 1em 40px
 }
 
 hr
