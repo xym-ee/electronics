@@ -3,7 +3,7 @@
 ![Github commits](https://badgen.net/github/commits/Meng2025/electronics/main)
 ![no problems](https://badgen.net/badge/no%20problem/(maybe)/red)
 
-*感谢访问我的学习笔记。*
+*感谢访问我的学习笔记,感谢朋友们的star。*
 
 *如果是在GitHub看到这些内容，那么可以前往[独立网页](https://xu.yumeng.website/electronics/)获得更好的浏览体验。*
 

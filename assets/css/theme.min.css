@@ -2189,10 +2189,17 @@ p.explain .minibutton
 	outline: none
 }
 
-.markdown-body p,.markdown-body blockquote,.markdown-body ul,.markdown-body ol,.markdown-body dl,.markdown-body table,.markdown-body pre,.markdown-body details
+.markdown-body p,.markdown-body dl,.markdown-body details
 {
 	margin-top: 0;
-	margin-bottom: 16px
+	margin-bottom: 0.5em;
+	text-indent: 2em
+}
+
+.markdown-body pre,.markdown-body ul,.markdown-body ol,.markdown-body table
+{
+	margin-top: 0;
+	margin-bottom: 16px	
 }
 
 .markdown-body hr
