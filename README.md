@@ -1,11 +1,13 @@
 
-![GitHub last commit](https://badgen.net/github/last-commit/Meng2025/electronics/main)
-![Github commits](https://badgen.net/github/commits/Meng2025/electronics/main)
-![no problems](https://badgen.net/badge/no%20problem/(maybe)/red)
+![GitHub last commit](https://badgen.net/github/last-commit/xym-ee/electronics/main)
+![Github commits](https://badgen.net/github/commits/xym-ee/electronics/main)
+![Github stars](https://badgen.net/github/stars/xym-ee/electronics)
+![Github forks](https://badgen.net/github/forks/xym-ee/electronics)
+![no problems](https://badgen.net/badge/license/CC-BY-NC-SA%204.0/blue)
 
 *感谢访问我的学习笔记,感谢朋友们的star。*
 
-*如果是在GitHub看到这些内容，那么可以前往[独立网页](https://xym.work/electronics/)获得更好的浏览体验。*
+*如果是在 GitHub 看到这些内容，那么可以前往[独立网页](https://xym.work/electronics/)获得更好的浏览体验。*
 
 *如果觉得我的笔记内容对您有帮助，那我会感到非常开心。*
 
