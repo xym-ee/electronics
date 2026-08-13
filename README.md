@@ -359,7 +359,7 @@ PMSM（永磁同步电机）本身的电磁关系更复杂了，不能再像直�
 
 有点意外的是，这个仓库后来陆续收到了不少 star。
 
-[![Star History Chart](https://api.star-history.com/image?repos=xym-ee/electronics&type=date&legend=top-left)](https://www.star-history.com/?repos=xym-ee%2Felectronics&type=date&legend=top-left)
+[![Star History Chart](https://star-history.dera.page/svg?repos=xym-ee/electronics&type=date&legend=top-left)](https://star-history.dera.page/#xym-ee/electronics&type=date&legend=top-left)
 
 我想，GitHub 上最不缺的大概就是计算机方向的学习资源，而电子学相关的系统整理相对少一些。我想来 github 找电子学习资源的大家都是比较有想法的人吧。
 
